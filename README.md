@@ -44,7 +44,7 @@ exit
 
 # Where can I get one
 I made a small batch and they are available on Tindie.  
-https://www.tindie.com/products/ignas/emmc-reader-for-nintendo-switch/  
+https://www.tindie.com/products/22851/  
 Or feel free to assemble one yourself.
 
 # Disclaimer
